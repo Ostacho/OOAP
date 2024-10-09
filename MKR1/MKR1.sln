@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MKR1", "MKR1.vcxproj", "{F72488CA-88E4-4961-B6C3-60B4C90B6181}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F72488CA-88E4-4961-B6C3-60B4C90B6181}.Debug|x64.ActiveCfg = Debug|x64
+		{F72488CA-88E4-4961-B6C3-60B4C90B6181}.Debug|x64.Build.0 = Debug|x64
+		{F72488CA-88E4-4961-B6C3-60B4C90B6181}.Debug|x86.ActiveCfg = Debug|Win32
+		{F72488CA-88E4-4961-B6C3-60B4C90B6181}.Debug|x86.Build.0 = Debug|Win32
+		{F72488CA-88E4-4961-B6C3-60B4C90B6181}.Release|x64.ActiveCfg = Release|x64
+		{F72488CA-88E4-4961-B6C3-60B4C90B6181}.Release|x64.Build.0 = Release|x64
+		{F72488CA-88E4-4961-B6C3-60B4C90B6181}.Release|x86.ActiveCfg = Release|Win32
+		{F72488CA-88E4-4961-B6C3-60B4C90B6181}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F709E33-056D-4037-B5CF-4D171085EA0E}
+	EndGlobalSection
+EndGlobal
