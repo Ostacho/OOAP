@@ -1,0 +1,34 @@
+Room type: Double
+Number of residents: 2
+Name: Salvan Tomas, Birth date: 01.01.2000, Faculty: FIT, Group: KNS-21, Education form: State order, Rent: 1500 UAH
+Name: Knauf Helan, Birth date: 02.02.2001, Faculty: FIT, Group: ISTS-41, Education form: Self-funded, Rent: 2000 UAH
+----------------------------------------
+Room type: Triple
+Number of residents: 3
+Name: Sidoriv, Birth date: 03.03.1933, Faculty: FIT, Group: KNS-21, Education form: State order, Rent: 1500 UAH
+Name: Olgard Olmond, Birth date: 04.04.2001, Faculty: FIT, Group: KNS-21, Education form: State order, Rent: 1500 UAH
+Name: Trush Oleg, Birth date: 05.05.2001, Faculty: FIT, Group: KNS-21, Education form: Self-funded, Rent: 2000 UAH
+----------------------------------------
+Room type: Double
+Number of residents: 2
+Name: Salvan Tomas, Birth date: 01.01.2000, Faculty: FIT, Group: KNS-21, Education form: State order, Rent: 1500 UAH
+Name: Knauf Helan, Birth date: 02.02.2001, Faculty: FIT, Group: ISTS-41, Education form: Self-funded, Rent: 2000 UAH
+----------------------------------------
+Room type: Triple
+Number of residents: 4
+Name: Sidoriv, Birth date: 03.03.1933, Faculty: FIT, Group: KNS-21, Education form: State order, Rent: 1500 UAH
+Name: Olgard Olmond, Birth date: 04.04.2001, Faculty: FIT, Group: KNS-21, Education form: State order, Rent: 1500 UAH
+Name: Trush Oleg, Birth date: 05.05.2001, Faculty: FIT, Group: KNS-21, Education form: Self-funded, Rent: 2000 UAH
+Name: Oleg, Birth date: 1921, Faculty: Fix, Group: KW-21, Education form: Sto, Rent: 10000 UAH
+----------------------------------------
+Room type: Double
+Number of residents: 2
+Name: Salvan Tomas, Birth date: 01.01.2000, Faculty: FIT, Group: KNS-21, Education form: State order, Rent: 1500 UAH
+Name: Knauf Helan, Birth date: 02.02.2001, Faculty: FIT, Group: ISTS-41, Education form: Self-funded, Rent: 2000 UAH
+----------------------------------------
+Room type: Triple
+Number of residents: 3
+Name: Sidoriv, Birth date: 03.03.1933, Faculty: FIT, Group: KNS-21, Education form: State order, Rent: 1500 UAH
+Name: Olgard Olmond, Birth date: 04.04.2001, Faculty: FIT, Group: KNS-21, Education form: State order, Rent: 1500 UAH
+Name: Trush Oleg, Birth date: 05.05.2001, Faculty: FIT, Group: KNS-21, Education form: Self-funded, Rent: 2000 UAH
+----------------------------------------
