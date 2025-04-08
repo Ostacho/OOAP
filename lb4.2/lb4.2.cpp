@@ -23,7 +23,7 @@ public:
 class NewVagon : public NewVagonSystem {
 public:
     void matchSocket() override {
-        std::cout << "New vagon system: Socket matched. Charging...\n";
+        std::cout << "New vagon system: Socket matched. Charging!\n";
     }
 };
 
