@@ -56,7 +56,7 @@ void printWithIndentation(const std::string& name, int depth) {
     for (int i = 0; i < depth; ++i) {
         std::cout << "  ";
     }
-    std::cout << (depth > 0 ? "- " : "") << name << "\n";
+    std::cout << (depth > 0 ? "-" : "") << name << "\n";
 }
 
 int main() {
