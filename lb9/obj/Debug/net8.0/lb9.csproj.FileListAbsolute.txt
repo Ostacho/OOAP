@@ -1,0 +1,15 @@
+D:\prog\lis11\OOAP\lb9\bin\Debug\net8.0\lb9.exe
+D:\prog\lis11\OOAP\lb9\bin\Debug\net8.0\lb9.deps.json
+D:\prog\lis11\OOAP\lb9\bin\Debug\net8.0\lb9.runtimeconfig.json
+D:\prog\lis11\OOAP\lb9\bin\Debug\net8.0\lb9.dll
+D:\prog\lis11\OOAP\lb9\bin\Debug\net8.0\lb9.pdb
+D:\prog\lis11\OOAP\lb9\obj\Debug\net8.0\lb9.GeneratedMSBuildEditorConfig.editorconfig
+D:\prog\lis11\OOAP\lb9\obj\Debug\net8.0\lb9.AssemblyInfoInputs.cache
+D:\prog\lis11\OOAP\lb9\obj\Debug\net8.0\lb9.AssemblyInfo.cs
+D:\prog\lis11\OOAP\lb9\obj\Debug\net8.0\lb9.csproj.CoreCompileInputs.cache
+D:\prog\lis11\OOAP\lb9\obj\Debug\net8.0\lb9.sourcelink.json
+D:\prog\lis11\OOAP\lb9\obj\Debug\net8.0\lb9.dll
+D:\prog\lis11\OOAP\lb9\obj\Debug\net8.0\refint\lb9.dll
+D:\prog\lis11\OOAP\lb9\obj\Debug\net8.0\lb9.pdb
+D:\prog\lis11\OOAP\lb9\obj\Debug\net8.0\lb9.genruntimeconfig.cache
+D:\prog\lis11\OOAP\lb9\obj\Debug\net8.0\ref\lb9.dll
