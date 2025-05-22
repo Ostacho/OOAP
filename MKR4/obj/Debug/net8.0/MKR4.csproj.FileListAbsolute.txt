@@ -1,0 +1,15 @@
+D:\prog\lis11\OOAP\MKR4\bin\Debug\net8.0\MKR4.exe
+D:\prog\lis11\OOAP\MKR4\bin\Debug\net8.0\MKR4.deps.json
+D:\prog\lis11\OOAP\MKR4\bin\Debug\net8.0\MKR4.runtimeconfig.json
+D:\prog\lis11\OOAP\MKR4\bin\Debug\net8.0\MKR4.dll
+D:\prog\lis11\OOAP\MKR4\bin\Debug\net8.0\MKR4.pdb
+D:\prog\lis11\OOAP\MKR4\obj\Debug\net8.0\MKR4.GeneratedMSBuildEditorConfig.editorconfig
+D:\prog\lis11\OOAP\MKR4\obj\Debug\net8.0\MKR4.AssemblyInfoInputs.cache
+D:\prog\lis11\OOAP\MKR4\obj\Debug\net8.0\MKR4.AssemblyInfo.cs
+D:\prog\lis11\OOAP\MKR4\obj\Debug\net8.0\MKR4.csproj.CoreCompileInputs.cache
+D:\prog\lis11\OOAP\MKR4\obj\Debug\net8.0\MKR4.sourcelink.json
+D:\prog\lis11\OOAP\MKR4\obj\Debug\net8.0\MKR4.dll
+D:\prog\lis11\OOAP\MKR4\obj\Debug\net8.0\refint\MKR4.dll
+D:\prog\lis11\OOAP\MKR4\obj\Debug\net8.0\MKR4.pdb
+D:\prog\lis11\OOAP\MKR4\obj\Debug\net8.0\MKR4.genruntimeconfig.cache
+D:\prog\lis11\OOAP\MKR4\obj\Debug\net8.0\ref\MKR4.dll
