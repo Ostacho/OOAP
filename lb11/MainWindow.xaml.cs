@@ -18,22 +18,22 @@ namespace lb11
         private async void LoadButton_Click(object sender, RoutedEventArgs e)
         {
             FilmList.Items.Clear();
-            Log("▶️ Початок завантаження...");
+            Log("Початок завантаження...");
 
             for (int page = 1; page <= 4; page++)
             {
                 string url = page == 1 ? "https://uaserials.pro/films/" : $"https://uaserials.pro/films/page/{page}/";
-                Log($"🌐 Переходимо на сторінку {url}");
+                Log($"Переходимо на сторінку {url}");
 
                 try
                 {
                     string html = await DownloadPageAsync(url);
-                    Log($"✅ Сторінка {page} завантажена");
+                    Log($"Сторінка {page} завантажена");
 
                     var films = ParseFilms(html);
 
                     if (films.Count == 0)
-                        Log("⚠️ Нічого не знайдено на сторінці");
+                        Log("Нічого не знайдено на сторінці");
 
                     FilmList.Items.Add(new FilmInfo
                     {
@@ -49,11 +49,11 @@ namespace lb11
                 }
                 catch (Exception ex)
                 {
-                    Log($"❌ Помилка: {ex.Message}");
+                    Log($"Помилка: {ex.Message}");
                 }
             }
 
-            Log("✅ Завантаження завершено.");
+            Log("Завантаження завершено.");
         }
 
         private async Task<string> DownloadPageAsync(string url)
@@ -89,7 +89,7 @@ namespace lb11
                 });
             }
 
-            Log($"📦 Знайдено {list.Count} записів");
+            Log($"Знайдено {list.Count} записів");
             return list;
         }
 
@@ -110,7 +110,7 @@ namespace lb11
 
             public override string ToString()
             {
-                return IsSeparator ? Title : $"🎬 {Title}";
+                return IsSeparator ? Title : $"{Title}";
             }
         }
     }
